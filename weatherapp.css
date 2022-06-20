@@ -1,0 +1,39 @@
+body{    
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.decor{
+    border: 2px solid #1a1a1a;
+    background-color: transparent;
+    color:black;
+    text-align: center;
+    padding:15px;
+}
+
+.mydark{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+    color:white;
+}
+.mains{
+    margin-top:80px;
+}
+#title{
+    font-size:30px;
+
+}
+#mode{
+    float:right;
+    margin-top:10px;
+}
+#btns{
+    margin-left:-5px;
+    margin-top:-4px;
+    font-size:16px;
+    border:1px ridge gray;
+}
+#mode{
+    border-radius:15px 50px;
+    
+}
+
